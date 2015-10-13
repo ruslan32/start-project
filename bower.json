@@ -1,0 +1,26 @@
+{
+  "name": "_optimized_gulp_sass",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "jquery": "",
+    "normalize.css": "",
+    "animate.css": "",
+    "animate-css": "",
+    "bootstrap": "",
+    "html5shiv": "",
+    "modernizr": ""
+  }
+}
